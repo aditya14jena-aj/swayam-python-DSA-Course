@@ -13,4 +13,8 @@ def gcd(m,n):
     print(f1,f2,cf)
     return cf[-1]
     
+<<<<<<< HEAD
 print(gcd(4,8))
+=======
+print(gcd(4,8))
+>>>>>>> daa8b70026768c0b6215ede225219bce61603792
